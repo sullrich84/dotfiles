@@ -68,3 +68,4 @@ install_or_upgrade go-task
 install_or_upgrade entr
 install_or_upgrade exa
 install_or_upgrade zoxide
+install_or_upgrade gum
