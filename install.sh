@@ -1,4 +1,23 @@
 #!/bin/bash
+#======================================================================================================================
+#
+#          FILE: install.sh
+#
+#         USAGE: ./install.sh
+#
+#   DESCRIPTION: Script for installing and updating sullrich84's dotfiles.
+#
+#       OPTIONS: n/a
+#  REQUIREMENTS: Homebrew, Git
+#          BUGS: Report bugs to: https://github.com/sullrich84/dotfiles/issues
+#         NOTES: Ensure that Homebrew is installed before running this script.
+#                The script installs or upgrades various tools used in dotfiles.
+#        AUTHOR: Sebastian Ullrich
+#  ORGANIZATION: deepsource.de / ullrich.tech
+#       CREATED: 2023-11-23
+#      REVISION: Initial release
+#
+#======================================================================================================================
 
 clear;
 
