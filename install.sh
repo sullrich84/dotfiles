@@ -64,6 +64,8 @@ install_or_upgrade fzf
 install_or_upgrade mc
 install_or_upgrade taskfile
 install_or_upgrade lazygit
+install_or_upgrade lazydocker
+install_or_upgrade lazynpm
 install_or_upgrade go-task
 install_or_upgrade entr
 install_or_upgrade exa
